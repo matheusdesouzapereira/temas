@@ -10,3 +10,8 @@ O que usei:
 - Vanilla Javascript
 
 Não usei nenhum framework. 
+
+# Vídeo demonstrativo do projeto na prática:
+
+https://youtu.be/L_LU7XkFMyk
+
